@@ -1,0 +1,23 @@
+{
+  "name": "playwright-automation-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jokes1er/playwright-automation-framework.git"
+  },
+  "keywords": [],
+  "author": "Artem Gardysh <artemgardysh@gmail.com>",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jokes1er/playwright-automation-framework/issues"
+  },
+  "homepage": "https://github.com/jokes1er/playwright-automation-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.7.0"
+  }
+}
